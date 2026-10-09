@@ -2,7 +2,8 @@
 
 **Slowed + reverb, right in your browser.** Drop in a song, slow it down, drench it in reverb, warm up the bass, and take home a file with its own little record sleeve.
 
-<!-- TODO(sneha): add the live link once Cloudflare is set up, e.g. **Live:** https://vinylhaze.pages.dev -->
+**🎧 Try it live → [vinylhaze.pages.dev](https://vinylhaze.pages.dev)**
+
 ![Vinylhaze playing a song on the spinning turntable, in the Red velvet speakeasy theme](screenshots/player.webp)
 
 ## Why I made this
