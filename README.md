@@ -3,7 +3,7 @@
 **Slowed + reverb, right in your browser.** Drop in a song, slow it down, drench it in reverb, warm up the bass, and take home a file with its own little record sleeve.
 
 <!-- TODO(sneha): add the live link once Cloudflare is set up, e.g. **Live:** https://vinylhaze.pages.dev -->
-![Vinylhaze playing a song on the spinning turntable, in the Gothic beauty theme](screenshots/player.webp)
+![Vinylhaze playing a song on the spinning turntable, in the Red velvet speakeasy theme](screenshots/player.webp)
 
 ## Why I made this
 
@@ -27,7 +27,7 @@ So I decided to make my own website, where I can happily change the vibe of a so
 
 | Record sleeve maker | Trim on the waveform | 10 themes |
 |---|---|---|
-| ![The record sleeve maker with a wood-grain background](screenshots/sleeve.webp) | ![Trimming a song with handles on the waveform and typed start and end times](screenshots/trim.webp) | ![The theme menu open in the Red velvet speakeasy theme](screenshots/themes.webp) |
+| ![The record sleeve maker: a sepia record on a wood-grain background](screenshots/sleeve.webp) | ![Trimming a song with handles on the waveform, in the Coffee & cigarettes theme](screenshots/trim.webp) | ![The theme menu open in the Pastel 70s jukebox theme](screenshots/themes.webp) |
 
 ## How it works
 
