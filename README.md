@@ -1,15 +1,15 @@
-# Slowverb
+# Vinylhaze
 
 **Slowed + reverb, right in your browser.** Drop in a song, slow it down, drench it in reverb, warm up the bass, and take home a file with its own little record sleeve.
 
-<!-- TODO(sneha): add the live link once Cloudflare is set up, e.g. **Live:** https://slowverb.pages.dev -->
-![Slowverb playing a song on the spinning turntable, in the Gothic beauty theme](screenshots/player.webp)
+<!-- TODO(sneha): add the live link once Cloudflare is set up, e.g. **Live:** https://vinylhaze.pages.dev -->
+![Vinylhaze playing a song on the spinning turntable, in the Gothic beauty theme](screenshots/player.webp)
 
 ## Why I made this
 
 I couldn't find some of my favorite songs on YouTube in a slowed + reverb version. Whenever I tried websites that could slow songs down and add reverb, the result never felt or hit the way I needed it to. Either the pitch was off, or some of the most basic features were locked behind a paid plan, which didn't make sense to me.
 
-So I decided to make my own website, where I can happily change the vibe of a song exactly the way I want. I feel like there are people out there who have felt the same way I did. So here we are with **Slowverb**.
+So I decided to make my own website, where I can happily change the vibe of a song exactly the way I want. I feel like there are people out there who have felt the same way I did. So here we are with **Vinylhaze**.
 
 ## Features
 
@@ -49,7 +49,7 @@ Everything runs in the browser with the **Web Audio API**. There is no server an
 
 ## A note on music
 
-Slowverb is for personal listening. Songs belong to their artists. Please don't upload remixes of music you don't have the rights to.
+Vinylhaze is for personal listening. Songs belong to their artists. Please don't upload remixes of music you don't have the rights to.
 
 ## Credits
 
